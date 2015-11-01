@@ -1,0 +1,5 @@
+更新失败了，因为远程控制的工作（任务）不在本地。通常是因为另一个库装入同一个地址。 Updates were rejected because the remote contains work that you do
+ not have locally. This is usually caused by another repository pushing
+ to the same ref. You may want to first integrate the remote changes
+ (e.g., 'git pull ...') before pushing again.
+ See the 'Note about fast-forwards' in 'git push --help' for details.
